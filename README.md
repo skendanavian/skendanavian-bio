@@ -1,4 +1,69 @@
-### Hi there 👋
+### Hey, I'm [Soren](https://github.com/skendanavian)! 👋,
+
+<br/>
+
+### About Me
+
+<p>
+I'm a full-stack developer with a focus on front-end design and development. I have a previous background as a professional. Like music, web development is the ideal blend of creativity, logic, and problem solving in a fast moving environment.
+
+<br/>
+
+### Recent Projects:
+
+🎬 Movie Award Nomination App -
+[Netlify](https://movie-awards-app.netlify.app/) / [Github](https://github.com/skendanavian/Movie-Award-Nomination-App)
+<br/>
+🎵 Musician Practice Drones (Audio App) -
+[Deployed](www.musicianpracticedrones.com) / [Github](https://github.com/skendanavian/musician-practice-drones)
+<br/>
+🎲 Let's Get Trivial (Multiplayer Trivia Game) -
+[Heroku](https://lets-get-trivial-game.herokuapp.com/www.musicianpracticedrones.com) / [Github](https://github.com/skendanavian/lets-get-trivial)
+<br/>
+🍔 Burger Bar (Restaurant Take-Out App) -
+[Github](https://github.com/skendanavian/Burger-Bar)
+
+### Tech Stack: 🔧 🔨 🔩
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=ruby)
+![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha)
+![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+
+🌱 My latest development escapades have been building some fun projects with React as well as tackling all sorts of fun algorithm challenges using JS. My next educational endeavours are diving into Angular and MongoDB.
+<br/>
+
+I am currently open to full-time work. Especially roles that are weighted towards the front-end. I have been helping a few clients with some front-end projects and will be participating in a hackathon with some pals in February 2021.
+
+### Connect
+
+- <a href="https://www.linkedin.com/in/soren-nissen/">
+  <img align="center" alt="Soren on Linkedin" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin
+
+</a>
+
+- <a href="www.sorennissen.com">Music Related Things</a>
+
+- 📝 [Resume](https://resume.creddle.io/resume/33dor1kjuv1)
+  <br/>
+
+---
 
 <!--
 **skendanavian/skendanavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
