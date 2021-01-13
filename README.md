@@ -25,7 +25,7 @@
 🍔 Burger Bar (Restaurant Take-Out App) -
 [Github](https://github.com/skendanavian/Burger-Bar)
 
-### 🔧 🔨 Languages and Tools:
+### 🔧 Languages and Tools 🔨
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
