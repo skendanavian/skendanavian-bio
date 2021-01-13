@@ -1,4 +1,4 @@
-### Hey, I'm [Soren](https://github.com/skendanavian)! 👋,
+## Hey, I'm [Soren](https://github.com/skendanavian)! 👋,
 
 <br/>
 
