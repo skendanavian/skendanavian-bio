@@ -5,7 +5,7 @@
 ### About Me
 
 <p>
-I'm a full-stack developer with a focus on front-end design and development. I have a previous background as a professional. Like music, web development is the ideal blend of creativity, logic, and problem solving in a fast moving environment.
+I'm a full-stack developer with a focus on front-end design and development. I have a previous background as a professional musician. Like music, web development is my ideal blend of creativity, logic, and problem solving.
 
 <br/>
 
@@ -58,24 +58,9 @@ I am currently open to full-time work. Especially roles that are weighted toward
 
 </a>
 
-- <a href="www.sorennissen.com">Music Related Things</a>
+- <a href="www.sorennissen.com" alt="soren nissen website">Music Related Things</a>
 
 - 📝 [Resume](https://resume.creddle.io/resume/33dor1kjuv1)
   <br/>
 
 ---
-
-<!--
-**skendanavian/skendanavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
