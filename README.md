@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm [Soren](https://github.com/skendanavian)! 👋, </h1>
+<h1 align="center"> Hey, I'm [Soren]! 👋, </h1>
 
 🇨🇦 🌲 💻 🌿 🎹 🎸 🎧 🏒 🏈 🚴 🎮 🏂 🎭
 
