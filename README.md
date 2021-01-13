@@ -18,7 +18,7 @@ I'm a full-stack developer with a focus on front-end design and development. I h
 [Deployed](www.musicianpracticedrones.com) / [Github](https://github.com/skendanavian/musician-practice-drones)
 <br/>
 🎲 Let's Get Trivial (Multiplayer Trivia Game) -
-[Heroku](https://lets-get-trivial-game.herokuapp.com/www.musicianpracticedrones.com) / [Github](https://github.com/skendanavian/lets-get-trivial)
+[Heroku](https://lets-get-trivial-game.herokuapp.com) / [Github](https://github.com/skendanavian/lets-get-trivial)
 <br/>
 🍔 Burger Bar (Restaurant Take-Out App) -
 [Github](https://github.com/skendanavian/Burger-Bar)
