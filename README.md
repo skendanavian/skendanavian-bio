@@ -64,7 +64,7 @@ I am currently open to full-time work. Especially roles that are weighted toward
 
 - <a href="https://medium.com/@s.nissen.bass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@s.nissen.bass" width="19px" /> Medium</a>
 
-- 🎸 <a href="www.sorennissen.com" alt="soren nissen website"> Music Stuff</a>
+- 🎸 <a href="https://www.sorennissen.com/" alt="soren nissen website"> Music Stuff</a>
 
 - 📝 [Resume](https://resume.creddle.io/resume/33dor1kjuv1)
   <br/>
