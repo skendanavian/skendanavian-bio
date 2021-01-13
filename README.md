@@ -2,10 +2,10 @@
 
 <br/>
 
-### About Me
+### About Me 🇨🇦
 
 <p>
-I'm a full-stack developer with a focus on front-end design and development. I have a previous background as a professional musician. Like music, web development is my ideal blend of creativity, logic, and problem solving.
+I'm a full-stack developer with a focus on front-end design and development. I have a background as a professional musician. Like music, I love web development because it offers a great blend of creativity, logic, and problem solving.
 
 <br/>
 
@@ -46,19 +46,19 @@ I'm a full-stack developer with a focus on front-end design and development. I h
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 
-🌱 My latest development escapades have been building some fun projects with React as well as tackling all sorts of fun algorithm challenges using JS. My next educational endeavours are diving into Angular and MongoDB.
+🌱 My latest development escapades have been building some fun projects with React as well as tackling all sorts of fun algorithm challenges. My next educational endeavours are diving into Angular and MongoDB.
 <br/>
 
 I am currently open to full-time work. Especially roles that are weighted towards the front-end. I have been helping a few clients with some front-end projects and will be participating in a hackathon with some pals in February 2021.
 
 ### Connect
 
-- <a href="https://www.linkedin.com/in/soren-nissen/">
-  <img align="center" alt="Soren on Linkedin" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linkedin
+- 👔 <a href="https://www.linkedin.com/in/soren-nissen/">
+  <img align="center" alt="Soren on Linkedin" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Linkedin
 
 </a>
 
-- <a href="www.sorennissen.com" alt="soren nissen website">Music Related Things</a>
+- 🎸 <a href="www.sorennissen.com" alt="soren nissen website"> Music Stuff</a>
 
 - 📝 [Resume](https://resume.creddle.io/resume/33dor1kjuv1)
   <br/>
