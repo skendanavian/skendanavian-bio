@@ -53,7 +53,7 @@ I am currently open to full-time work. Especially roles that are weighted toward
 
 ### Connect
 
-- 👔 <a href="https://www.linkedin.com/in/soren-nissen/">
+- <a href="https://www.linkedin.com/in/soren-nissen/">
   <img align="center" alt="Soren on Linkedin" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Linkedin
 
 </a>
