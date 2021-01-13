@@ -1,11 +1,11 @@
-## Hey, I'm [Soren](https://github.com/skendanavian)! 👋,
+<h1 align="center"> Hey, I'm [Soren](https://github.com/skendanavian)! 👋, </h1>
 
 🇨🇦 🌲 💻 🌿 🎹 🎸 🎧 🏒 🏈 🚴 🎮 🏂 🎭
 
 ### About Me
 
 <p>
-I'm a full-stack developer with a focus on front-end design and development. I have a background as a professional musician. Like music, I love web development because it offers a great blend of creativity, logic, and problem solving.
+I'm a full-stack developer with a focus on front-end design and development. I have a background as a professional musician. Like music, I love web development because it offers a great blend of creativity, logic, and problem solving. I have a diploma in web development from Lighthouse Labs (2020).
 
 <br/>
 
@@ -23,7 +23,7 @@ I'm a full-stack developer with a focus on front-end design and development. I h
 🍔 Burger Bar (Restaurant Take-Out App) -
 [Github](https://github.com/skendanavian/Burger-Bar)
 
-### Tech Stack: 🔧 🔨 🔩
+### 🔧 🔨 Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -58,9 +58,14 @@ I am currently open to full-time work. Especially roles that are weighted toward
 
 </a>
 
+- <a href="https://medium.com/@s.nissen.bass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@s.nissen.bass" width="19px" /></a>
+
 - 🎸 <a href="www.sorennissen.com" alt="soren nissen website"> Music Stuff</a>
 
 - 📝 [Resume](https://resume.creddle.io/resume/33dor1kjuv1)
   <br/>
 
 ---
+
+<h3 align="center">Github Stats</h3>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skendanavian&theme=dark" alt="skendanavian" /></p>
