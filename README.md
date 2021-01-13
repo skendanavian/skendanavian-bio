@@ -5,7 +5,10 @@
 ### About Me
 
 <p>
-I'm a full-stack developer with a focus on front-end design and development. I have a background as a professional musician. Like music, I love web development because it offers a great blend of creativity, logic, and problem solving. 
+ - I'm a full-stack developer with a focus on front-end design and development. 
+</br>
+- I have a background as a professional musician. Like music, I love web development because it offers a great blend of creativity, logic, and problem solving. 
+<br/>
 - I received my Web Development Diploma from Lighthouse Labs in 2020.
 
 <br/>
