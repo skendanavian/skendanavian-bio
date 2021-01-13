@@ -1,8 +1,8 @@
 ## Hey, I'm [Soren](https://github.com/skendanavian)! 👋,
 
-<br/>
+🇨🇦 🌲 💻 🌿 🎹 🎸 🎧 🏒 🏈 🚴 🎮 🏂 🎭
 
-### About Me 🇨🇦
+### About Me
 
 <p>
 I'm a full-stack developer with a focus on front-end design and development. I have a background as a professional musician. Like music, I love web development because it offers a great blend of creativity, logic, and problem solving.
