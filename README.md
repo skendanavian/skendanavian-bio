@@ -15,7 +15,7 @@ I'm a full-stack developer with a focus on front-end design and development. I h
 [Netlify](https://movie-awards-app.netlify.app/) / [Github](https://github.com/skendanavian/Movie-Award-Nomination-App)
 <br/>
 🎵 Musician Practice Drones (Audio App) -
-[Deployed](www.musicianpracticedrones.com) / [Github](https://github.com/skendanavian/musician-practice-drones)
+[Deployed](https://www.musicianpracticedrones.com/) / [Github](https://github.com/skendanavian/musician-practice-drones)
 <br/>
 🎲 Let's Get Trivial (Multiplayer Trivia Game) -
 [Heroku](https://lets-get-trivial-game.herokuapp.com) / [Github](https://github.com/skendanavian/lets-get-trivial)
