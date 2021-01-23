@@ -5,9 +5,9 @@
 ### About Me
 
 <p>
- - I'm a full-stack developer with a focus on front-end design and development. 
+ - I'm a full-stack developer with a preference towards front-end design and UI development. 
 </br>
-- I have a background as a professional musician. Like music, I love web development because it offers a great blend of creativity, logic, and problem solving. 
+- I have a background as a professional musician. Like music, I love web development because it offers a great combination of creativity, logic, and problem solving.  
 <br/>
 - I received my Web Development Diploma from Lighthouse Labs in 2020.
 
@@ -15,10 +15,13 @@
 
 ### Recent Projects:
 
+🏂 React Snowboard Store
+[Heroku](https://react-mountain-sports-test.herokuapp.com/) / [Github](https://github.com/skendanavian/E-Commerce-Shopping-Cart)
+<br/>
 🎬 Movie Award Nomination App -
 [Netlify](https://movie-awards-app.netlify.app/) / [Github](https://github.com/skendanavian/Movie-Award-Nomination-App)
 <br/>
-🎵 Musician Practice Drones (Audio App) -
+🎵 Musician Practice Drones (Audio Practice Tool) -
 [Deployed](https://www.musicianpracticedrones.com/) / [Github](https://github.com/skendanavian/musician-practice-drones)
 <br/>
 🎲 Let's Get Trivial (Multiplayer Trivia Game) -
