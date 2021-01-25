@@ -55,7 +55,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 
-🌱 My latest development escapades have been building some fun projects with React as well as tackling all sorts of fun algorithm challenges. My next educational endeavours are diving into Angular and MongoDB.
+🌱 My latest development escapades have been building some fun projects with React as well as tackling all sorts of fun algorithm challenges. I am currently working on learning Redux and MongoDb and will be diving into Angular next.
 <br/>
 
 I am currently open to full-time work. Especially roles that are weighted towards the front-end. I have been helping a few clients with some front-end projects and will be participating in a hackathon with some pals in February 2021.
