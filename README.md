@@ -15,7 +15,7 @@
 
 ### Recent Projects:
 📚 DNAducation - Educational portal that uses typing biometrics to monitor academic dishonesty during remote exams.
-[Heroku](https://dnaducation.herokuapp.com/) / [Github](https://github.com/skendanavian/DNAducation)
+[DevPost Portfolio](https://devpost.com/software/dnaducation)[Heroku](https://dnaducation.herokuapp.com/) / [Github](https://github.com/skendanavian/DNAducation)
 <br/>
 🏂 React Snowboard Store
 [Heroku](https://react-mountain-sports-test.herokuapp.com/) / [Github](https://github.com/skendanavian/E-Commerce-Shopping-Cart)
