@@ -14,7 +14,7 @@
 <br/>
 
 ### Recent Projects:
-🏂 DNAducation - Educational portal for teachers and students. Uses typing biometrics to flag academic dishonesty during exams.
+📚 DNAducation - Educational portal that uses typing biometrics to monitor academic dishonesty during remote exams.
 [Heroku](https://dnaducation.herokuapp.com/) / [Github](https://github.com/skendanavian/DNAducation)
 <br/>
 🏂 React Snowboard Store
