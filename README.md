@@ -59,7 +59,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 
-🌱 My latest development escapades have been building some fun projects with React as well as tackling all sorts of fun algorithm challenges. Just finished my first hackathon and currently working through Wes Bos' Javascript 30 course and then I want to learn Angular. 
+🌱 My latest development escapades have been learning firebase/firestore, React Flux, and creating highly modular scalable React Components. 
 <br/>
 
 ### Connect
