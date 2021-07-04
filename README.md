@@ -1,10 +1,5 @@
 <h1 align="center"> Hey, I'm Soren! 👋 </h1>
 
-- <a href="https://www.skendesign.com/">
-   View Portfolio
-
-</a>
-
 
 ### About Me
 
@@ -18,6 +13,11 @@
 - I received my Web Development Diploma from Lighthouse Labs in 2020.
 
 <br/>
+<br/>
+<a href="https://www.skendesign.com/">
+   View Portfolio
+
+</a>
 
 ### Recent Projects:
 📚 DNAducation - Educational portal that uses typing biometrics to monitor academic dishonesty during remote exams.
