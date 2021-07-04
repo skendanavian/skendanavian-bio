@@ -1,6 +1,10 @@
 <h1 align="center"> Hey, I'm Soren! 👋 </h1>
 
-<p align="center">🇨🇦 🌲 💻 🌿 🎹 🎸 🎧 🏒 🏈 🚴 🎮 🏂 🎭</p>
+- <a href="https://www.skendesign.com/">
+   View Portfolio
+
+</a>
+
 
 ### About Me
 
@@ -59,10 +63,10 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 
-🌱 My latest development escapades have been learning firebase/firestore, React Flux, and creating highly modular scalable React Components. 
-<br/>
 
 ### Connect
+
+
 
 - <a href="https://www.linkedin.com/in/soren-nissen/">
   <img align="center" alt="Soren on Linkedin" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> Linkedin
