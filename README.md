@@ -6,7 +6,6 @@
 <p>
  - I'm a full-stack developer, always eager to learn new skills and technologies. 
 </br>
-- Currently working as a Software Developer @ PremiseHQ SaaS Inc.
 </br>
 - I have a background as a professional musician. Like music, I love web development because it offers a great combination of creativity, logic, and problem solving.  
 <br/>
